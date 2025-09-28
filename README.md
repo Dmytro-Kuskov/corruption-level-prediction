@@ -81,3 +81,77 @@ project/
 
 Licenses:
 
+Political Corruption Index (Our World in Data / V-Dem)
+Dataset: Political Corruption Index – V-Dem (processed by Our World in Data)
+
+Citation:
+“V-Dem (2025) – processed by Our World in Data. ‘Political Corruption Index – V-Dem’ [dataset]. V-Dem, ‘Democracy report v15’ [original data]. Retrieved September 28, 2025 from https://archive.ourworldindata.org/20250925-233948/grapher/political-corruption-index.html (archived on September 25, 2025).”
+
+License: Creative Commons BY; always credit V-Dem and Our World in Data.
+
+Average Years of Schooling (Our World in Data)
+Dataset: Average years of schooling (processed by Our World in Data)
+
+Citation:
+Data sourced from “Mean years of schooling,” United Nations Development Programme (UNDP) processed by Our World in Data.
+Recommended attribution:
+“United Nations Development Programme & Our World in Data. ‘Average years of schooling’ [dataset]. Retrieved from https://ourworldindata.org/grapher/average-years-of-schooling”
+
+License: Open Access, typically Creative Commons BY or equivalent, but check original UNDP terms for re-use.
+
+Corruption Perceptions Index (Our World in Data / Transparency International)
+Dataset: Corruption Perceptions Index (processed by Our World in Data)
+
+Citation:
+“Transparency International (2025) – processed by Our World in Data. ‘Corruption Perceptions Index’ [dataset]. Retrieved from https://ourworldindata.org/grapher/ti-corruption-perception-index”
+
+License: Creative Commons BY for the Our World in Data curation. Transparency International data: non-commercial personal and educational use permitted; for commercial use contact TI.
+
+GDP per Capita, PPP (World Bank)
+Dataset: GDP per capita, PPP (constant 2017 international $)
+
+Citation:
+“World Bank. ‘GDP per capita, PPP (constant 2017 international $)’ [indicator: NY.GDP.PCAP.PP.KD]. Retrieved from https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD”
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), World Bank Open Data.
+
+Consumer Price Index / Inflation (World Bank)
+Dataset: Inflation, consumer prices (annual %)
+
+Citation:
+“World Bank. ‘Inflation, consumer prices (annual %)’ [indicator: FP.CPI.TOTL.ZG]. Retrieved from https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG”
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), World Bank Open Data.
+
+Unemployment by Country (World Bank)
+Dataset: Unemployment (World Bank)
+
+Citation:
+“World Bank. ‘Unemployment by country’ [DataBank dataset, id/f407e65c]. Retrieved from https://databank.worldbank.org/data/Unemployment-by-country/id/f407e65c”
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), World Bank Open Data.
+
+World Bank Data Report (GDP and Components)
+Dataset: GDP and its breakdown at current prices in US Dollars, DataBank, World Bank
+
+Citation:
+“World Bank. ‘GDP and its breakdown at current prices in US Dollars’ [DataBank report]. Retrieved from https://databank.worldbank.org/reports.aspx?ReportId=163203&Type=Table”
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), World Bank Open Data.
+
+Internet Usage (% of population) (World Bank)
+Dataset: Individuals using the Internet (% of population)
+
+Citation:
+“World Bank. ‘Individuals using the Internet (% of population)’ [indicator: IT.NET.USER.ZS]. Retrieved from https://data.worldbank.org/indicator/IT.NET.USER.ZS”
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), World Bank Open Data.
+
+Press Freedom Index (World Bank / Reporters Without Borders)
+Dataset: Press Freedom Index (World Bank Data360, RWB_PFI)
+
+Citation:
+“Reporters Without Borders, World Bank. ‘Press Freedom Index’ [RWB_PFI dataset]. Retrieved from https://data360.worldbank.org/en/dataset/RWB_PFI”
+
+License: Usually Creative Commons BY (World Bank). Data source Reporters Without Borders – may have own terms; check for non-commercial restrictions.
+
