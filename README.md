@@ -3,6 +3,7 @@
 Predicting the level of corruption in a country based on socio-economic factors.  
 The project explores how indicators like GDP per capita, press freedom, education, natural resource rent, internet use and economic factors relate to corruption levels.  
 Goal: test whether machine learning can provide meaningful predictive power and highlight the trade-offs of different models.
+More about problem definition in /reports/Problem_Definition.md
 
 ---
 
@@ -59,6 +60,8 @@ project/
 - Gradient Boosting, XGBoost and Random Forest performed best in terms of F1 and Recall and make less costly mistakes.  
 - Logistic Regression provides interpretability but weak performance with dangerous mistakes.  
 - Hyperparameter tuning improved performance of Gradient Boosting by ~10%, smaller gains for others.   
+
+More about models' prefomances in /reports/Performance Report.pdf
 
 ---
 
