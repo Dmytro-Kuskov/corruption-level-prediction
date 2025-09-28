@@ -1,7 +1,7 @@
 # Corruption Level Prediction
 
 Predicting the level of corruption in a country based on socio-economic factors.  
-The project explores how indicators like GDP per capita, press freedom, education, internet use and economic factors relate to corruption levels.  
+The project explores how indicators like GDP per capita, press freedom, education, natural resource rent, internet use and economic factors relate to corruption levels.  
 Goal: test whether machine learning can provide meaningful predictive power and highlight the trade-offs of different models.
 
 ---
@@ -75,9 +75,9 @@ project/
    ```
 3. Explore notebooks:
 
-  notebooks/01_data_preprocessing.ipynb → data cleaning, EDA.
+  notebooks/01_data_preprocessing.ipynb - data cleaning, EDA.
 
-  notebooks/02_model_training.ipynb → model training and evaluation.
+  notebooks/02_model_training.ipynb - model training and evaluation.
 
 ### Datasets:
 
