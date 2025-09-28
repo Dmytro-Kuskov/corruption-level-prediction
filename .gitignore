@@ -7,10 +7,6 @@ __pycache__/
 *.egg
 *.log
 
-# Jupyter
-.ipynb_checkpoints/
-*.nbconvert.ipynb
-
 # Virtual environments
 .env
 .venv
@@ -18,26 +14,6 @@ env/
 venv/
 *.env
 
-# OS
-.DS_Store
-Thumbs.db
 
-# Data / models
-data/
-*.csv
-*.tsv
-*.xlsx
-*.json
-*.pickle
-*.pkl
-*.joblib
-*.h5
-*.npz
-*.npy
 
-# Results / experiments
-runs/
-outputs/
-models/
-checkpoints/
 
