@@ -1,9 +1,9 @@
 # Corruption Level Prediction
 Predicting level of corrpution in a country based on socio-sconomic factors
 
-
+---
 ## Project Structure
-
+```
 project/
 │── data/
 │   ├── raw/
@@ -20,3 +20,4 @@ project/
 │
 │── README.md
 │── requirements.txt
+```
