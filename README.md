@@ -119,4 +119,7 @@ https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
 World Bank. World Telecommunication/ICT Indicators Database, International Telecommunication Union ( ITU ) Individuals using the Internet (% of population) (IT.NET.USER.ZS). World Development Indicators. License : CC BY-4.0 
 https://data.worldbank.org/indicator/IT.NET.USER.ZS
 
+Total natural resources rents (% of GDP). World Bank Databank. Available at: https://databank.worldbank.org/
+
+Unemployment by country. World Bank Databank. Available at: https://databank.worldbank.org/
 
