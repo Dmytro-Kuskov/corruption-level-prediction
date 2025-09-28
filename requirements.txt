@@ -1,0 +1,12 @@
+imblearn
+joblib==1.4.2
+matplotlib==3.9.2
+numpy==1.26.4
+pandas==2.2.3
+re
+scikit-learn==1.5.1
+scipy==1.14.1
+seaborn==0.13.2
+statsmodels==0.14.4
+warnings
+xgboost==3.0.2
