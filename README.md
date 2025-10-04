@@ -69,7 +69,7 @@ More about models' prefomances in /reports/Performance Report.pdf
 
 1. Clone the repo:  
    ```
-   git clone https://github.com/yourusername/corruption-prediction.git
+   git clone https://github.com/Dmytro-Kuskov/corruption-level-prediction.git
    cd corruption-prediction
    ```
 2. Install dependencies:
